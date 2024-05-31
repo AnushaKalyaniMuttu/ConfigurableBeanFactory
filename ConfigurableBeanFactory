@@ -1,0 +1,2 @@
+Hashcodr can be check to see how many bean instances are created.
+@Scope(name=ConfigurableBeanFactory.Singleton
